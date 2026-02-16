@@ -9,8 +9,6 @@
 
 > **Enterprise-grade Active Directory health monitoring with advanced analytics, historical trending, security auditing, and executive reporting.**
 
-![AD Health Dashboard](https://via.placeholder.com/800x400/2a2a3d/00ffff?text=AD+Health+Dashboard+Preview)
-
 ---
 
 ## 📋 Table of Contents

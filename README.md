@@ -789,16 +789,14 @@ Collected for each domain controller:
 ## 📸 Screenshots
 
 ### HTML Dashboard
-![Dashboard Overview](https://via.placeholder.com/800x500/2a2a3d/00ffff?text=HTML+Dashboard+Overview)
+![Dashboard Overview](https://raw.githubusercontent.com/ChrisMunnPS/AD-Health-Monitor/main/docs/images/dashboard.png)
 
-### Health Score Chart
-![Health Scores](https://via.placeholder.com/800x400/2a2a3d/00ff00?text=Health+Score+Chart)
+
+
 
 ### Executive Summary
-![Executive Summary](https://via.placeholder.com/800x500/ffffff/2a2a3d?text=Executive+Summary+Report)
+![Executive Summary](https://raw.githubusercontent.com/ChrisMunnPS/AD-Health-Monitor/main/docs/images/executive-summary.png)
 
-### Kerberos Delegation Details
-![Delegation Analysis](https://via.placeholder.com/800x400/2a2a3d/ffa500?text=Delegation+Security+Analysis)
 
 ---
 

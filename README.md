@@ -227,33 +227,33 @@ Health scores are compared with historical data to show:
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│                   Enhanced-ADHealthMonitor.ps1               │
+│                   Enhanced-ADHealthMonitor.ps1              │
 ├─────────────────────────────────────────────────────────────┤
-│                                                               │
-│  ┌──────────────┐  ┌──────────────┐  ┌──────────────┐      │
-│  │   Discovery  │  │ Health Checks │  │   Reporting  │      │
-│  ├──────────────┤  ├──────────────┤  ├──────────────┤      │
-│  │ • Get DCs    │  │ • Ping       │  │ • HTML       │      │
-│  │ • DC Info    │  │ • DCDiag     │  │ • Executive  │      │
-│  │ • Roles      │  │ • Replication│  │ • Markdown   │      │
-│  │ • Perf Data  │  │ • FSMO       │  │ • CSV/JSON   │      │
-│  └──────────────┘  │ • Disk Space │  │ • Email      │      │
-│                     │ • Services   │  └──────────────┘      │
-│  ┌──────────────┐  │ • Event Logs │                        │
-│  │  Historical  │  │ • GPO Replic │  ┌──────────────┐      │
-│  │   Trending   │  │ • DNS Zones  │  │   Alerting   │      │
-│  ├──────────────┤  │ • Security   │  ├──────────────┤      │
-│  │ • Load Data  │  └──────────────┘  │ • Critical   │      │
-│  │ • Compare    │                     │ • Warning    │      │
-│  │ • Calculate  │  ┌──────────────┐  │ • Console    │      │
-│  │ • Save       │  │  Delegation  │  │ • Email      │      │
-│  │ • Cleanup    │  │    Audit     │  └──────────────┘      │
-│  └──────────────┘  ├──────────────┤                        │
-│                     │ • DC Filter  │                        │
-│                     │ • Categorize │                        │
-│                     │ • Risk Assess│                        │
-│                     │ • Report     │                        │
-│                     └──────────────┘                        │
+│                                                             │
+│  ┌──────────────┐  ┌──────────────┐  ┌──────────────┐       │
+│  │   Discovery  │  │ Health Checks│  │   Reporting  │       │
+│  ├──────────────┤  ├──────────────┤  ├──────────────┤       │
+│  │ • Get DCs    │  │ • Ping       │  │ • HTML       │       │
+│  │ • DC Info    │  │ • DCDiag     │  │ • Executive  │       │
+│  │ • Roles      │  │ • Replication│  │ • Markdown   │       │
+│  │ • Perf Data  │  │ • FSMO       │  │ • CSV/JSON   │       │
+│  └──────────────┘  │ • Disk Space │  │ • Email      │       │
+│                    │ • Services   │  └──────────────┘       │
+│  ┌──────────────┐  │ • Event Logs │                         │
+│  │  Historical  │  │ • GPO Replic │  ┌──────────────┐       │
+│  │   Trending   │  │ • DNS Zones  │  │   Alerting   │       │
+│  ├──────────────┤  │ • Security   │  ├──────────────┤       │
+│  │ • Load Data  │  └──────────────┘  │ • Critical   │       │
+│  │ • Compare    │                    │ • Warning    │       │
+│  │ • Calculate  │  ┌──────────────┐  │ • Console    │       │
+│  │ • Save       │  │  Delegation  │  │ • Email      │       │
+│  │ • Cleanup    │  │    Audit     │  └──────────────┘       │
+│  └──────────────┘  ├──────────────┤                         │
+│                    │ • DC Filter  │                         │
+│                    │ • Categorize │                         │
+│                    │ • Risk Assess│                         │
+│                    │ • Report     │                         │
+│                    └──────────────┘                         │
 └─────────────────────────────────────────────────────────────┘
 ```
 
